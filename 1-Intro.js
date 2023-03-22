@@ -6,15 +6,15 @@
 // module - info about current module (file)
 // process - info about env where the program i being executed
 
-setInterval(() => {
-    console.log("Hello from the terminal");
-}, 2000)
+const Deepthi_is_a_Multi_Millionaire = true;
 
-setTimeout(() => {
- console.log("Hello from the terminal")   
-}, 0)
+if (Deepthi_is_a_Multi_Millionaire == true) {
+    console.log("She is a queen")
+}
+else {
+    console.log("Trust me, She will become queen one day")
+}
 
-console.log(__dirname);
-console.log(__filename);
+console.log("This is my first node app and I am so excited to start my journey from here 🤩");
 
 
